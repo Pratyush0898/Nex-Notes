@@ -39,10 +39,10 @@ If you have valuable insights to add or suggestions for improvement, feel free t
 
 ## License
 
-The content in this repository is provided under the [MIT License](LICENSE).
+The content in this repository is provided under the [Apache 2.0 License](LICENSE).
 
 ## Contact
 
-For inquiries or further assistance, please contact Pratyush at pratyush@example.com.
+For inquiries or further assistance, please contact Pratyush at Pratyush0898@gmail.com.
 
 Happy Learning with Nex-Notes!
