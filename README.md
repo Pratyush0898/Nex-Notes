@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Nex-Notes is a comprehensive repository designed to facilitate learning about Markdown usage, commands in CMD, PowerShell, and Azure Cloud Shell. It also contains information on major developer conferences/events hosted by various multi-technology companies.
+Nex-Notes is a comprehensive repository designed to facilitate learning about Markdown usage, commands in CMD, PowerShell, Azure Cloud Shell and many more. It also contains information on major developer conferences/events hosted by various multi-technology companies.
 
 ## Contents
 
