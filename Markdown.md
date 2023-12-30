@@ -14,7 +14,7 @@ For example, **like this** or __like this__.
 To write italic text, you can use either single asterisks or single underscores around the text. 
 `*Example*`
 
-_Example_
+`_Example_`
 
 For example, *like this* or _like this_.
 
