@@ -51,7 +51,7 @@ Inline code: \`code\` renders as `code`
 
 ## Multiline code box:
 
-\```Python
+\```main.py
 
     if __name__ == __main__:
     print("this is a code box")
@@ -59,7 +59,7 @@ Inline code: \`code\` renders as `code`
 
 Will be render as
 
-```Python
+```main.py
 if __name__ ==  __main__:
     print("this is a code box")
 ```
