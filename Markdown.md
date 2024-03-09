@@ -53,8 +53,8 @@ Inline code: \`code\` renders as `code`
 
 \```main.py
 
-    if __name__ == __main__:
-    print("this is a code box")
+\    if __name__ == __main__:
+\    print("this is a code box")
 \```
 
 Will be render as
